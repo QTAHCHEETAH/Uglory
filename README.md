@@ -1,6 +1,4 @@
 # Uglory Project
-<br>
-![메인](https://user-images.githubusercontent.com/96898877/190863092-2096a019-0456-44a9-88b0-1ae4f746bf15.jpg)
 
 <br>
 <h4> ✨ Visit : http://kh-classa.xyz/ugloryC (고객 페이지) </h4>
@@ -13,13 +11,6 @@
 - 회원은 개발 상품 및 구독 상품을 주문 및 결제할 수 있습니다. 
 - 회원은 구매한 상품에 대한 리뷰를 작성할 수 있습니다. 
 - 관리자는 회원의 정보, 결제 내역, 리뷰를 조회하고 상태를 변경할 수 있습니다. 
-
-<br>
-
-# DB 설계 (ERD)
-<br>
-![erd](https://user-images.githubusercontent.com/96898877/190862724-a949ebb0-e34a-4c7f-ba95-1dacd9758912.jpg)
-
 
 <br>
 
