@@ -1,6 +1,6 @@
 # Uglory Project
 <br>
-![메인](https://user-images.githubusercontent.com/96898877/190862967-05d14af8-0687-4ea4-8e52-aa6aad96dd8f.jpg)
+![메인](https://user-images.githubusercontent.com/96898877/190863092-2096a019-0456-44a9-88b0-1ae4f746bf15.jpg)
 
 <br>
 <h4> ✨ Visit : http://kh-classa.xyz/ugloryC (고객 페이지) </h4>
